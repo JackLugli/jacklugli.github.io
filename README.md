@@ -1,6 +1,7 @@
 ## Welcome to the GitHub page of Jack Lugli 
 
-It seems to take a while for pages to refresh.
+It seems to take a while for pages to refresh. But code for the cartoon worked right beneath this
+
 <iframe src="//www.pixton.com/embed/p0rdc9lg" frameborder="0" width="100%" height="384" allowfullscreen></iframe>  
 
 You can use the [editor on GitHub](https://github.com/JackLugli/jacklugli.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
