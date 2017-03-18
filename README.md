@@ -4,7 +4,7 @@ It seems to take a while for pages to refresh. But code for the cartoon worked r
 
 <iframe src="//www.pixton.com/embed/p0rdc9lg" frameborder="0" width="100%" height="384" allowfullscreen></iframe>  
 
-Students were having trouble having their links show up on the md page if the links were in md. Here is an experiment of Julian's links.
+Students were having trouble having their links show up on the md page if the links were in md. Here is an experiment of Julian's links. It turns out that if you view page source, GitHub changes the markdown language into html. The link below, written in md, shows up as an html link.
 
 [A map that I made of several colleges in the Lehigh Valley using Google Fusion Tables](https://julianlynn.github.io/map.html)
 
