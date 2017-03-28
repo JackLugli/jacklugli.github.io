@@ -8,9 +8,14 @@ Students were having trouble having their links show up on the md page if the li
 
 [A map that I made of several colleges in the Lehigh Valley using Google Fusion Tables](https://julianlynn.github.io/map.html)
 
+Supposed I make it an image with an ! in front of it?
+
+![A map that I made of several colleges in the Lehigh Valley using Google Fusion Tables](https://julianlynn.github.io/map.html)
+
 You can use the [editor on GitHub](https://github.com/JackLugli/jacklugli.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Here is a trial of student work on Timeline JS brought to md:
+Here is a trial of student work on Timeline JS that I placed in on the ReadMe page:
+
 For a majority of my childhood, Barack Obama was the President of the United States of America. After this past unprecendented election, many Americans miss his presence in the Oval Office, so I decided to create a timeline of his very interesting and profound life. Check it out below!
 
 <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Z4VXuyLGQwWeaY-_q1aaJmOru_mzWEQGlWu86xO-C-A&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe>
