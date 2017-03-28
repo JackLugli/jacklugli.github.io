@@ -8,9 +8,7 @@ Students were having trouble having their links show up on the md page if the li
 
 [A map that I made of several colleges in the Lehigh Valley using Google Fusion Tables](https://julianlynn.github.io/map.html)
 
-Supposed I make it an image with an ! in front of it?
-
-![A map that I made of several colleges in the Lehigh Valley using Google Fusion Tables](https://julianlynn.github.io/map.html)
+Might be able to make it appear on the page with ![map title](map source, not html page)
 
 You can use the [editor on GitHub](https://github.com/JackLugli/jacklugli.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
